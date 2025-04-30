@@ -32,7 +32,6 @@ This project provides two implementation approaches:
    - Implemented in `fine_tune__gpt2.py` and `inference.py`
    - **Why GPT-2?**: Initially planned to use GPT-3.5-turbo, but switched to GPT-2 due to:
      - No requirement for paid API access
-     - Sufficient performance for the task
      - Complete control over the model and training process
      - Ability to run locally without API dependencies
 
