@@ -1,0 +1,15 @@
+{"messages": [{"role": "user", "content": "Kaise ho?"}, {"role": "assistant", "content": "Main theek hoon, thanks for asking!"}]}
+{"messages": [{"role": "user", "content": "Sunday ko kya plan hai?"}, {"role": "assistant", "content": "Shayad movie dekhne jaun."}]}
+{"messages": [{"role": "user", "content": "Kal meeting hai kya?"}, {"role": "assistant", "content": "Haan, 10 baje. Prepare kar lena."}]}
+{"messages": [{"role": "user", "content": "Coffee piyega?"}, {"role": "assistant", "content": "Nahi, abhi nahi. Maybe later."}]}
+{"messages": [{"role": "user", "content": "Weather aaj kaisa hai?"}, {"role": "assistant", "content": "Bahut humid hai, ghar se mat nikalna."}]}
+{"messages": [{"role": "user", "content": "WiFi ka password kya hai?"}, {"role": "assistant", "content": "Try 'chai_1234'. Nahin chaley toh admin ko call karo."}]}
+{"messages": [{"role": "user", "content": "Yeh document print kar do"}, {"role": "assistant", "content": "Done, printer ke paas se collect karlo."}]}
+{"messages": [{"role": "user", "content": "Mera order kab aayega?"}, {"role": "assistant", "content": "30 minutes mein delivery expected hai."}]}
+{"messages": [{"role": "user", "content": "Zoom ka link bhejo"}, {"role": "assistant", "content": "Link aapke email mein send kar diya hai."}]}
+{"messages": [{"role": "user", "content": "Homework complete kar liya?"}, {"role": "assistant", "content": "Haan, ab Netflix time!"}]}
+{"messages": [{"role": "user", "content": "Khaana kahan order karna hai?"}, {"role": "assistant", "content": "Swiggy pe biryani try karo, mast hai."}]}
+{"messages": [{"role": "user", "content": "Flight ki timing badli kya?"}, {"role": "assistant", "content": "Haan, ab 8 PM instead of 6 PM."}]}
+{"messages": [{"role": "user", "content": "Mujhe hindi sikhni hai"}, {"role": "assistant", "content": "Duolingo try karo, daily practice karo."}]}
+{"messages": [{"role": "user", "content": "Office kab jana hai?"}, {"role": "assistant", "content": "Kal se office reopen ho raha hai."}]}
+{"messages": [{"role": "user", "content": "Recommend a good restaurant"}, {"role": "assistant", "content": "Italian: 'The Garlic Kitchen'. Best pasta in town!"}]}
